@@ -31,6 +31,6 @@ John Doe, Jane Doe, Walter White, Jesse Pinkman
 ```
 ### 6. Вихід з циклу
 ```text
-exit
+> exit
 Bye!
 ```
