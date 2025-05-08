@@ -1,4 +1,5 @@
-Embedded H2 DB is used as the relational database, so the SQL scripts are tailored specifically for H2 and differ from those used in MySQL or PostgreSQL
+- *Embedded H2 DB is used as the relational database, so the SQL scripts are tailored specifically for H2 and differ from those used in MySQL or PostgreSQL*  
+- *If project would be bigger I'd use regexps, but here I simplify*
 
 ## Examples of requests and answers
 
