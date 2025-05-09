@@ -1,10 +1,11 @@
-package com.botscrew.test.service;
+package com.botscrew.test.service.impl;
 
 import com.botscrew.test.model.Degree;
 import com.botscrew.test.model.Department;
 import com.botscrew.test.model.Lecturer;
 import com.botscrew.test.repository.DepartmentRepository;
 import com.botscrew.test.repository.LecturerRepository;
+import com.botscrew.test.service.UniversityService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

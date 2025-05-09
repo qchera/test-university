@@ -18,7 +18,7 @@ public class ConsoleRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        Scanner in = new Scanner(System.in, StandardCharsets.UTF_8);
+        Scanner in = new Scanner(System.in);
         System.out.println("Enter command (or 'exit' to quit):");
 
         while (true) {
